@@ -8,5 +8,8 @@ class calculator{
 	public void add(int a,int b){
 		return a-b;
 	}
+public void multiply(int a,int b){
+return a*b;
+}
 }
 
