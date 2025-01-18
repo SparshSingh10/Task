@@ -1,5 +1,6 @@
 class calculator{
-	main{
-	
-	}
+	main(){
+}
+public static void sub(int a,int b){
+return a+b;
 }
