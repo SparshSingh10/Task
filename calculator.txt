@@ -1,5 +1,9 @@
 class calculator{
-	main{
-	
+	public static void main(){
+
+	}
+	public void add(int a,int b){
+		return a+b;
 	}
 }
+
