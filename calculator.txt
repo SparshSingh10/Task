@@ -1,6 +1,12 @@
 class calculator{
-	main(){
+	public static void sub(int a,int b){
+		return a+b;
+	}
+	public static void main(){
+
+	}
+	public void add(int a,int b){
+		return a-b;
+	}
 }
-public static void sub(int a,int b){
-return a+b;
-}
+
